@@ -1,0 +1,403 @@
+/* pour le body */
+.col_one {
+    padding: 2px;
+    margin: 2px;
+}
+
+.Ciel2 {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #c2c0c0;
+}
+
+.tel01 {
+    background-image: url("https://media.istockphoto.com/id/162358002/fr/photo/femmes-arc-et-prier.jpg?s=612x612&w=0&k=20&c=rIoBWKwrMDIjibfPg2RQ3Dk5Bo8M7Wq2m_s8Ddusves=");
+    color: #ff0000;
+    font-size: 78px;
+    font-weight: bold;
+    padding: 50px;
+}
+
+.tel02 {
+    background-image: url("https://media.istockphoto.com/id/1215810103/fr/photo/femme-noir-faisant-l%C3%A9tude-de-bible.jpg?s=612x612&w=0&k=20&c=PmGYGkyl4oIqmTs9S0Rx0IimR6OjF69wTlZ1fG7pMKc=");
+    color: #ff0000;
+    font-size: 78px;
+    font-weight: bold;
+    padding: 50px;
+}
+
+.tel03 {
+    background-image: url("https://media.istockphoto.com/id/847575018/fr/photo/groupe-de-personnes-se-tenant-les-mains-priant-culte-croire.jpg?s=612x612&w=0&k=20&c=b4SgUMUdul231LNtAYR7W-ZpOz-BnaXD6VV3Wjty9y4=");
+    color: #ff0000;
+    font-size: 78px;
+    font-weight: bold;
+    padding: 50px;
+}
+
+.tel04 {
+    background-image: url("https://media.istockphoto.com/id/898424764/fr/photo/les-femmes-participent-%C3%A0-l%C3%A9tude-de-la-bible.jpg?s=612x612&w=0&k=20&c=kIP7aWblbsJ_arxepN98BBSPJwuLj6CQaw88SoYpu_E=");
+    color: #ff0000;
+    font-size: 78px;
+    font-weight: bold;
+    padding: 50px;
+}
+.question1{
+    text-align: center;
+}
+
+.family_amour {
+
+    color: #000000;
+    font-size: 18px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.verset {
+    color: #002fca;
+    font-size: 18px;
+
+}
+
+.amour1 {
+    color: #ff0000;
+    font-weight: bold;
+    font-size: 23px;
+    text-align: center;
+
+}
+
+.amour2 {
+
+    color: #000000;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+
+}
+
+.atire2 {
+    font-size: 27px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.bouton3 {
+    text-align: center;
+}
+
+.bouton4 {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.bouton4:hover {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.bouton {
+    /*background-color: #38b9f5; */
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+
+    display: inline-block;
+    background-color: #1F69EC;
+    border-radius: 50px;
+
+    color: #ffffff;
+    text-align: center;
+    font-size: 16px;
+    padding: 20px;
+    width: 200px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    cursor: pointer;
+    border-style: none;
+}
+
+.bouton001 {
+    /*background-color: #38b9f5; */
+
+    text-align: center;
+    font-size: 14px;
+
+    display: inline-block;
+    border-radius: 50px;
+
+    color: #ffffff;
+    text-align: center;
+    font-size: 12px;
+    padding: 5px;
+    width: 100px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    cursor: pointer;
+    border-style: none;
+}
+
+.bouton2 {
+    text-decoration: none;
+}
+
+.bouton2:hover {
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #112395;
+}
+
+.priere {
+    font-size: 27px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000000;
+    text-align: center;
+}
+
+.priere1 {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: #000000;
+    font-weight: bold;
+}
+
+.atire {
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.family1 {
+    font-size: 14px;
+    text-align: justify;
+    font-family: artifakt-legend, sans-serif;
+
+}
+
+.family2 {
+    text-align: left;
+    font-size: 18.5px;
+    color: #002fca;
+    font-weight: bold;
+
+}
+
+.color0 {
+    background-color: whitesmoke;
+    border-radius: 2px;
+    text-align: center;
+    color: #013353;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    /* border-left: 7px solid rgb(36, 36, 36); */
+}
+
+.color1 {
+    background-color: rgb(255, 255, 255);
+
+}
+
+.color2 {
+    background-color: rgb(255, 255, 255);
+}
+
+/* #0b0070; #003c64; #ee7300;*/
+.bornav1 {
+    /*  background-color: #0a65b9;*/
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwlqlKIYVdDhCNTpSM_u08fsAQfAGmNwtkyg&usqp=CAU");
+    text-align: center;
+    padding: 80px;
+
+}
+
+.vide {
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.vide1 {
+    padding: 0.1px;
+    background-color: #ffd8b3;
+}
+
+.vide2 {
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+.copy1 {
+    font-size: 14px;
+    color: #f2f2f2;
+}
+
+.ligne {
+    background-color: #ff0000;
+}
+
+.foot {
+    padding: 30px;
+    background-color: #1F69EC;
+    text-align: center;
+    padding: 18px;
+    color: #ffffff;
+    font-size: 20 px;
+
+
+}
+
+#ex1 {
+    background: linear-gradient(#1F69EC, #002664);
+}
+
+#ex2 {
+    background: linear-gradient(#0748b9, #002664);
+}
+
+
+
+.footer1 {
+    text-align: center;
+    background-color: #1F69EC;
+    color: #f2f2f2;
+    font-size: 15px;
+}
+
+
+.lire {
+    text-align: left;
+    text-indent: 15px;
+
+}
+
+.inter {
+    line-height: 2;
+
+}
+
+.inter1 {
+    line-height: 3;
+}
+
+.bor5 {
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*------- debut code defilement de bienvenue ------------*/
+
+.marquee-rtl {
+    overflow: hidden;
+    /* important */
+    width: 100%;
+    max-width: 220em;
+    /* A ADAPTER */
+}
+
+.marquee-rtl>div {
+    display: inline-block;
+    /* important */
+    white-space: nowrap;
+    /* important */
+    animation: defilement-rtl 30s infinite linear;
+    /* défilement */
+    cursor: pointer;
+    padding: 0.5px 1em 0.5px 100%;
+}
+
+@keyframes defilement-rtl {
+    0% {
+        -webkit-transform: translate(0);
+        transform: translate(0);
+    }
+
+    100% {
+        -webkit-transform: translate(-100%);
+        transform: translate(-100%);
+    }
+}
+
+
+
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+    /*background-color: #1477d1; 
+    background-color: #061454 ; */
+    background-color: #1F69EC;
+    overflow: hidden;
+
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+
+}
+
+.soulgine {
+    border-bottom: 1px solid #f77f0f;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #112395;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+    background-color: #20a4c5;
+    color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#ex02 {
+    background: linear-gradient(to bottom, yellow, red);
+}
+
+#ex3 {
+    background: linear-gradient(180deg, yellow, red);
+}
+
+#ex4 {
+    background: linear-gradient(to bottom, yellow 0%, red 100%);
+}
+
+#ex5 {
+    background: linear-gradient(to top, red, yellow);
+}
